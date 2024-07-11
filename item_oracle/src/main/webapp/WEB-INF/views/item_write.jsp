@@ -10,7 +10,7 @@
 	<form method="post" action="write_result">
 		<table>
 			<tr>
-				<td>상품명</td>
+				<td>상품명222</td>
 				<td>
 					<input type="text" name="name">
 				</td>
