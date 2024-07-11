@@ -8,6 +8,6 @@
 </head>
 <body>
 	<a href="content">결과보기</a>
-	안녕하세요
+	안녕하세요 반가워요
 </body>
 </html>
