@@ -8,5 +8,6 @@
 </head>
 <body>
 	<a href="content">결과보기</a>
+	안녕하세요
 </body>
 </html>
